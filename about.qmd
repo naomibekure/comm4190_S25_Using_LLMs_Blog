@@ -5,4 +5,4 @@ about:
   template: jolla
 ---
 
-About this blog
+Hello! My name is Naomi, and I am a senior in the Annenberg School for Communication at The University of Pennsylvania. I am majoring in Communication with a concentration in Politics & Policy, as well as minoring in Legal Studies & History.
